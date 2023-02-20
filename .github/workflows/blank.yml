@@ -16,5 +16,5 @@ jobs:
       with:
         server: ftp.srdlbd.com
         username: srdlbd
-        password: ${{ Srd@bd@com# }}
+        password: Srd@bd@com#
 server-dir: https://www.srdlbd.com/
